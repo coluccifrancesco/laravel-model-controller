@@ -1,7 +1,7 @@
 # laravel-model-controller
 
 ### Svolgimento
-1. Create un nuovo progetto Laravel
+1. Create un nuovo progetto Laravel ✅
 
 2. tramite phpMyAdmin o MySQL Workbench create un nuovo database laravel_model_controller
 
