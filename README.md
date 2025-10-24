@@ -18,4 +18,4 @@
 <br>
 
 ### Bonus 
-Inventare una grafica a piacere per il sito e realizzarne il layout, aggiungendo lo stile con SASS.
+Inventare una grafica a piacere per il sito e realizzarne il layout, aggiungendo lo stile con SASS. ✅
