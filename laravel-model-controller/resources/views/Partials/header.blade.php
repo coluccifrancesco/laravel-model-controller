@@ -1,7 +1,7 @@
 <header>
     <div>
         <nav>
-            <h1>Eureka!</h1>
+            <h1>Good Movies!</h1>
         </nav>
     </div>
 </header>
